@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493549112265",
+    "project_id": "weather-a3f99",
+    "storage_bucket": "weather-a3f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493549112265:android:afe4df37d8824e726ff618",
+        "android_client_info": {
+          "package_name": "com.example.tara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493549112265-edonqs7sf020ukait2fmannn57ap0ss6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKfIDAdB43hvG8JTk1lTwXVfaJ53XvgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493549112265-edonqs7sf020ukait2fmannn57ap0ss6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
